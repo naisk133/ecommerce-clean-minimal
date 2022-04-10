@@ -1,0 +1,10 @@
+Workshop
+- feature: create product
+- feature: create checkout
+- feature: add product to checkout
+
+Homework
+- make product service to use product repo
+- feature: remove product from checkout
+- implement db adapter (sqlite, postgres, mongo, redis, etc.)
+- implement checkout rest api
